@@ -1,4 +1,4 @@
-const { Collection } = require("mongoose"); //ez nem tudom h kerult ide
+const { Collection } = require("mongoose"); //ez nem tudom h kerult ide, de ahogy nezem nem sikerult tul jol elolvasnom a feladatokat xd
 
 const MongoClient = require("mongodb").MongoClient;
 const url = "mongodb+srv://asztaloscsaba70:1234asd1234@t13elso.octc2vw.mongodb.net/";
